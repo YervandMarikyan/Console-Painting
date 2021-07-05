@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ConsoleApp_ConsolePainting\ConsoleApp_ConsolePainting\bin\Debug\ConsoleApp_ConsolePainting.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp_ConsolePainting\ConsoleApp_ConsolePainting\bin\Debug\ConsoleApp_ConsolePainting.exe
+C:\Users\ASUS\source\repos\ConsoleApp_ConsolePainting\ConsoleApp_ConsolePainting\bin\Debug\ConsoleApp_ConsolePainting.pdb
+C:\Users\ASUS\source\repos\ConsoleApp_ConsolePainting\ConsoleApp_ConsolePainting\obj\Debug\ConsoleApp_ConsolePainting.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp_ConsolePainting\ConsoleApp_ConsolePainting\obj\Debug\ConsoleApp_ConsolePainting.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp_ConsolePainting\ConsoleApp_ConsolePainting\obj\Debug\ConsoleApp_ConsolePainting.exe
+C:\Users\ASUS\source\repos\ConsoleApp_ConsolePainting\ConsoleApp_ConsolePainting\obj\Debug\ConsoleApp_ConsolePainting.pdb
